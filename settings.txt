@@ -1,0 +1,15 @@
+atom one dark theme
+
+live server
+
+path intellinsense
+
+prettier
+ctrl+shift+p or f
+
+htmlhint
+
+stylelint
+добавить код в настройки
+
+
